@@ -10,12 +10,12 @@
         "education" : "本科",
         "workage": "2022届毕业",
         "phone": "15768921483",
-        "email": "xieyx39@gmail.com"
+        "email": "xieyx39@mail2.sysu.edu.cn"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/lingjiu123",
             "icon": ""
         },
         {
@@ -35,25 +35,25 @@
         },
         {
             "type": "home",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/lingjiu123",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "2018-2019 中山大学ACM程序设计三等奖"
         },
         {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "2019-2020 美国大学生数学建模竞赛（MCM/ICM）S奖"
         },
         {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+            "name": "2018-2019，2019-2020 中山大学优秀学生奖学金三等奖"
         },
         {
-            "name": "201X百度校园助手大赛优秀开发奖"
+            "name": "2018-2019中山大学计算机学院优秀团支部书记"
         },
         {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
+            "name": "2019青少年高校科学营优秀志愿者"
         }
     ],
     "people":[
