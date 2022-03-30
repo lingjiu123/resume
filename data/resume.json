@@ -119,7 +119,7 @@
             "name_link": "https://github.com/Jayin",
             "title": "计算机视觉opencv",
             "icon": "",
-            "description": "其中的openpose是姿态形式检测，同时也用到机器人开发框架ROS",
+            "description": "计算机视觉利用的是openpose和图像检测，同时也用到机器人开发框架ROS",
             "time": "",
             "location": ""
         }
