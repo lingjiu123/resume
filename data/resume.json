@@ -56,6 +56,11 @@
             "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
         }
     ],
+    "people":[
+        {"firstName":"Brett","lastName":"McLaughlin","email":"aaaa"},
+        {"firstName":"Jason","lastName":"Hunter","email":"bbbb"},
+        {"firstName":"Elliotte","lastName":"Harold","email":"cccc"}
+    ],
     "socialExperiences": [
         {
             "name": "加入XX移动开发工作室",
