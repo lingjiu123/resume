@@ -57,7 +57,7 @@
         }
     ],
 
-   /** "socialExperiences": [
+   /* "socialExperiences": [
         {
             "name": "加入中山大学计算机学院团委实践部",
             "name_link": "https://github.com/Jayin",
@@ -87,7 +87,7 @@
             "location": ""
         },
     ],
-    */
+    
     "ProjectExperience": [
         {
             "name": "最优化课程：梯度下降算法，神经网络训练识别手写数字",
@@ -126,4 +126,6 @@
             "location": ""
         }
     ]
+    
+    */
 }
