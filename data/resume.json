@@ -56,7 +56,7 @@
             "name": "2019青少年高校科学营优秀志愿者"
         }
     ],
-/*
+
     "socialExperiences": [
         {
             "name": "加入中山大学计算机学院团委实践部",
@@ -75,7 +75,6 @@
             "description": "主要是利用二轮平衡车完成自主导航的算法验证，其中学到了ROS框架，opencv和计算机视觉一些知识"
         }
     ],
-    
     "InternExperiences": [
         {
             "name": "无",
@@ -87,45 +86,42 @@
             "location": ""
         },
     ],
-    
     "ProjectExperience": [
         {
-            "name": "最优化课程：梯度下降算法，神经网络训练识别手写数字",
+            "name": "XTips",
             "name_link": "https://github.com/Jayin",
-            "title": "算法理解和实现，入门神经网络",
+            "title": "Android App, 作者",
             "icon": "",
-            "description":"凌青老师教授的凸优化课程使我们受益匪浅，着重实现了梯度下降和识别手写数字的神经网络",
-            "time": "2020.3-2021.6",
+            "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
+            "time": "2013.07 - 至今",
             "location": ""
         },
         {
-            "name": "大数据挖掘与分布式处理",
+            "name": "XX技能培训中心",
             "name_link": "",
-            "title": "相似度发现：局部敏感哈希算法，pagerank:转移矩阵，聚类，推荐系统",
+            "title": "Android App/PHP后端, 项目负责人",
             "icon": "",
-            "description": "主要利用hadoop的框架实现分布式的算法测试，主要实现的是pagerank和相似度发现算法",
-            "time": "2020.09 - 2021.01",
+            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
+            "time": "2014.08 - 2014.12",
             "location": ""
         },
         {
-            "name": "利用CUDA加速模拟退火算法",
+            "name": "silentor",
             "name_link": "https://github.com/Jayin/silentor",
-            "title": "CUDA多核程序设计，GPU加速",
+            "title": "JavaScript, forker",
             "icon": "",
-            "description": "模拟退火算法是经典的下降算法，期望找到全局最优解，利用多线程去寻找这个最优解从而提高效率",
-            "time": "2019.09-2020.01",
+            "description": "纯前端，基于markdown的博客",
+            "time": "2014.10 - 至今",
             "location": ""
         },
         {
-            "name": "基于二轮平衡车的自主导航系统的算法验证",
+            "name": "更多",
             "name_link": "https://github.com/Jayin",
-            "title": "计算机视觉opencv",
+            "title": "",
             "icon": "",
-            "description": "计算机视觉利用的是openpose和图像检测，同时也用到机器人开发框架ROS",
+            "description": "",
             "time": "",
             "location": ""
         }
     ]
-    
-    */
 }
