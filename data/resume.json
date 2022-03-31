@@ -57,7 +57,7 @@
         }
     ],
 
-    "socialExperiences": [
+   /* "socialExperiences": [
         {
             "name": "加入中山大学计算机学院团委实践部",
             "name_link": "https://github.com/Jayin",
@@ -75,6 +75,7 @@
             "description": "主要是利用二轮平衡车完成自主导航的算法验证，其中学到了ROS框架，opencv和计算机视觉一些知识"
         }
     ],
+    
     "InternExperiences": [
         {
             "name": "无",
@@ -86,6 +87,7 @@
             "location": ""
         },
     ],
+    */
     "ProjectExperience": [
         {
             "name": "最优化课程：梯度下降算法，神经网络训练识别手写数字",
